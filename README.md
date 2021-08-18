@@ -1,11 +1,10 @@
 # Electronics-Project-Distance-Sensor-With-Bluetooth
 
-- The goal of this circuit is to ...
+- The goal of this circuit is to design and program an electrical circuit to connect distance sensor with controller, with bluetooth module.
 - The design was created by **AUTODESK THINKERCAD** site.
 
 ## the circuit:
 <img width="846" alt="Screen Shot 1443-01-10 at 5 34 22 AM" src="https://user-images.githubusercontent.com/88155243/129828676-e51ee13e-f617-4a75-b81a-c06019594251.png">
-
 
 ## Component:
 1. Breadboard.
